@@ -1,6 +1,6 @@
 # Secret contract demo code
 
-This contract code extends origin counter by adding `GetMsg` method to get the hello msg like `Hello same, count is 8`
+This contract code extends origin counter by adding `GetMsg` method to get the hello msg like `Hello Sam, count is 8`
 from the contract state.
 
 Also add some tests.
